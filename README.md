@@ -16,6 +16,10 @@ I enjoy building dashboards, cleaning data, and finding insights that support be
   <p><strong>Tools:</strong> SQL</p>
   <p>Used SQL queries to explore data, answer business questions, and uncover useful trends.</p>
 </div>
+### Tableau Beginner Dashboard
+**Tools:** Tableau Public
+Built an interactive dashboard using store sales data to analyze sales, profit, orders, customers, product categories, and geographic performance.
+[View Dashboard]https://public.tableau.com/views/yourdashboardname/Sheet1?:language=en-US&publish=yes
 
 ## Skills
 - SQL
