@@ -23,5 +23,5 @@ Add your GitHub Pages link here
 
 ## Contact
 - GitHub: https://github.com/eortiz26
-- LinkedIn: add your LinkedIn link
-- Email: add your email
+- LinkedIn: erick-ortiz-472165195
+- Email: ejortiz29@gmail.com
