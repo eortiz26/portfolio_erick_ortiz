@@ -1,6 +1,6 @@
 # Erick Ortiz Portfolio
 
-<h1>Erick Ortiz</h1>
+
 <h2>Data Analyst | SQL | Python | Excel | Tableau | Power BI</h2>
 <p>I build dashboards, clean data, and turn raw data into actionable insights.</p>
 
