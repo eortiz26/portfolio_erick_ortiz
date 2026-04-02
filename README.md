@@ -1,9 +1,11 @@
 # Erick Ortiz Portfolio
 
-Welcome to my portfolio website.
+Erick Ortiz
+Data Analyst | SQL | Python | Excel | Tableau | Power BI
+I build dashboards, clean data, and turn raw data into actionable insights.
 
 ## About
-I am an aspiring Data Analyst with skills in SQL, Python, Excel, Tableau, and Power BI.
+"I am an aspiring data analyst with experience in SQL, Python, Excel, Tableau, and Power BI. I enjoy cleaning data, building dashboards, and turning data into clear business insights."
 
 ## Projects
 - Sales Dashboard Project
