@@ -19,9 +19,9 @@ I am an aspiring Data Analyst with skills in SQL, Python, Excel, Tableau, and Po
 - Data Visualization
 
 ## Live Portfolio
-Add your GitHub Pages link here
+https://github.com/eortiz26
 
 ## Contact
 - GitHub: https://github.com/eortiz26
-- LinkedIn: erick-ortiz-472165195
+- LinkedIn: www.linkedin.com/in/erick-ortiz-472165195
 - Email: ejortiz29@gmail.com
