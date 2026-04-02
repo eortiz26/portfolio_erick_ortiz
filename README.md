@@ -21,7 +21,7 @@ I build dashboards, clean data, and turn raw data into actionable insights.
 - Data Visualization
 
 ## Live Portfolio
-https://github.com/eortiz26
+https://eortiz26.github.io/portfolio_erick_ortiz/
 
 ## Contact
 - GitHub: https://github.com/eortiz26
