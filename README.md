@@ -1,16 +1,21 @@
 # Erick Ortiz Portfolio
 
-Erick Ortiz
-Data Analyst | SQL | Python | Excel | Tableau | Power BI
-I build dashboards, clean data, and turn raw data into actionable insights.
+<h1>Erick Ortiz</h1>
+<h2>Data Analyst | SQL | Python | Excel | Tableau | Power BI</h2>
+<p>I build dashboards, clean data, and turn raw data into actionable insights.</p>
 
 ## About
-"I am an aspiring data analyst with experience in SQL, Python, Excel, Tableau, and Power BI. I enjoy cleaning data, building dashboards, and turning data into clear business insights."
+<p>
+I am an aspiring data analyst with skills in SQL, Python, Excel, Tableau, and Power BI.
+I enjoy building dashboards, cleaning data, and finding insights that support better decisions.
+</p>
 
 ## Projects
-- Sales Dashboard Project
-- SQL Data Analysis Project
-- Python Data Cleaning Project
+<div class="project-card">
+  <h3>SQL Data Analysis Project</h3>
+  <p><strong>Tools:</strong> SQL</p>
+  <p>Used SQL queries to explore data, answer business questions, and uncover useful trends.</p>
+</div>
 
 ## Skills
 - SQL
