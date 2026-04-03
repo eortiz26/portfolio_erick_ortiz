@@ -19,10 +19,14 @@ I enjoy building dashboards, cleaning data, and finding insights that support be
 Built an interactive dashboard to analyze electric vehicle data and highlight trends and insights.
 
 [View Tableau Dashboard](https://public.tableau.com/views/electric_17212458150990/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-### Tableau Beginner Dashboard
+
+## Projects
+### Store Sales Dashboard
 **Tools:** Tableau Public
-Built an interactive dashboard using store sales data to analyze sales, profit, orders, customers, product categories, and geographic performance.
-[View Dashboard]https://public.tableau.com/views/yourdashboardname/Sheet1?:language=en-US&publish=yes
+
+Built an interactive dashboard to explore store sales data and uncover useful business insights.
+
+[View Tableau Dashboard](https://public.tableau.com/views/storesamlpe/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Skills
 - SQL
