@@ -13,11 +13,12 @@ I enjoy building dashboards, cleaning data, and finding insights that support be
 </p>
 
 ## Projects
-<div class="project-card">
-  <h3>SQL Data Analysis Project</h3>
-  <p><strong>Tools:</strong> SQL</p>
-  <p>Used SQL queries to explore data, answer business questions, and uncover useful trends.</p>
-</div>
+### Electric Vehicle Dashboard
+**Tools:** Tableau Public
+
+Built an interactive dashboard to analyze electric vehicle data and highlight trends and insights.
+
+[View Tableau Dashboard](https://public.tableau.com/views/electric_17212458150990/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ### Tableau Beginner Dashboard
 **Tools:** Tableau Public
 Built an interactive dashboard using store sales data to analyze sales, profit, orders, customers, product categories, and geographic performance.
