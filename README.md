@@ -20,7 +20,6 @@ Built an interactive dashboard to analyze electric vehicle data and highlight tr
 
 [View Tableau Dashboard](https://public.tableau.com/views/electric_17212458150990/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-## Projects
 ### Store Sales Dashboard
 **Tools:** Tableau Public
 
