@@ -13,6 +13,7 @@ I enjoy building dashboards, cleaning data, and finding insights that support be
 </p>
 
 ## Projects
+
 ### Electric Vehicle Dashboard
 **Tools:** Tableau Public
 
@@ -22,6 +23,10 @@ Built an interactive dashboard to analyze electric vehicle data and highlight tr
 
 ### Store Sales Dashboard
 **Tools:** Tableau Public
+
+Built an interactive dashboard to explore store sales data and uncover useful business insights.
+
+[View Tableau Dashboard](https://public.tableau.com/views/storesamlpe/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Built an interactive dashboard to explore store sales data and uncover useful business insights.
 
