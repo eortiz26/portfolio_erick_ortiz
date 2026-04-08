@@ -1,7 +1,8 @@
 # Erick Ortiz Portfolio
 
 ## Resume
-[View Resume](./erick_ortiz_resume_updated.pdf)
+
+[View My Resume](./erick_ortiz_full_resume.pdf)
 
 <h2>Data Analyst | SQL | Python | Excel | Tableau | Power BI</h2>
 <p>I build dashboards, clean data, and turn raw data into actionable insights.</p>
