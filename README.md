@@ -1,10 +1,12 @@
 # Erick Ortiz Portfolio
 
+Welcome to my personal portfolio website repository.
+
 ## Resume
 
 [View My Resume](./erick_ortiz_full_resume.pdf)
 
-## Portfolio
+## Live Portfolio
 
 [Visit My Portfolio Website](https://eortiz26.github.io/portfolio_erick_ortiz/)
 
