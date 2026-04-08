@@ -2,9 +2,11 @@
 
 ## Resume
 
-Click below to view or download my resume.
+[View My Resume](./erick_ortiz_full_resume.pdf)
 
-[View My Resume PDF](./erick_ortiz_full_resume.pdf)
+## Portfolio
+
+[Visit My Portfolio Website](https://eortiz26.github.io/portfolio_erick_ortiz/)
 
 <h2>Data Analyst | SQL | Python | Excel | Tableau | Power BI</h2>
 <p>I build dashboards, clean data, and turn raw data into actionable insights.</p>
