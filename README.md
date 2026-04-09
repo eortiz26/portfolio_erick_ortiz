@@ -34,6 +34,11 @@ Built an interactive dashboard to analyze electric vehicle data and highlight tr
 Built an interactive dashboard to explore store sales data and uncover useful business insights.
 
 [View Tableau Dashboard](https://public.tableau.com/views/storesamlpe/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Tools:** HTML, CSS, JavaScript
+
+Built a simple calculator app that can add, subtract, multiply, and divide.
+
+[Open Project](https://eortiz26.github.io/calculator/)
 
 ## Skills
 - SQL
