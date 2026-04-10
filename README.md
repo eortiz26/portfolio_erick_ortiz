@@ -44,6 +44,14 @@ Built a simple calculator app that can add, subtract, multiply, and divide.
 
 [Open Project](https://eortiz26.github.io/calculator/)
 
+### Python To-Do List App
+
+**Tools:** Python
+
+A beginner-friendly Python project that allows users to manage and save daily tasks.
+
+[View Python Code](./main.py)
+
 ## Skills
 
 - SQL
