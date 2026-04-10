@@ -4,7 +4,7 @@ Welcome to my personal portfolio website repository.
 
 ## Resume
 
-[View My Resume](assets/erick ortiz full resume.pdf)
+[View My Resume](assets/erick_ortiz_resume.pdf)
 
 ## Live Portfolio
 
@@ -58,4 +58,5 @@ Built a simple calculator app that can add, subtract, multiply, and divide.
 
 - **GitHub:** https://github.com/eortiz26
 - **LinkedIn:** https://www.linkedin.com/in/erick-ortiz-472165195
+- **Email:** ejortiz29@gmail.com
 - **Email:** ejortiz29@gmail.com
