@@ -4,7 +4,7 @@ Welcome to my personal portfolio website repository.
 
 ## Resume
 
-[View My Resume](assets/erick_ortiz_resume.pdf)
+[View My Resume](./assets/erick_ortiz_newresume.pdf)
 
 ## Live Portfolio
 
