@@ -24,7 +24,7 @@ Built an interactive dashboard to analyze electric vehicle data and uncover usef
 ### Store Sales Dashboard
 **Tools:** Tableau Public  
 Built an interactive dashboard to explore store sales data and uncover useful business insights.  
-[View Tableau Dashboard](https://public.tableau.com/views/storesample/Dashboard1)
+[View Tableau Dashboard](https://public.tableau.com/views/storesample/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
