@@ -14,6 +14,13 @@ I am an aspiring data analyst with skills in SQL, Python, Excel, Tableau, and Po
 
 ## Projects
 
+### Electric Vehicle Dashboard
+**Tools:** Tableau Public  
+Built an interactive dashboard to analyze electric vehicle data and uncover useful business insights.  
+[View Tableau Dashboard](https://public.tableau.com/views/electric_17212458150990/Dashboard1)
+
+---
+
 ### Store Sales Dashboard
 **Tools:** Tableau Public  
 Built an interactive dashboard to explore store sales data and uncover useful business insights.  
