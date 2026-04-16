@@ -15,11 +15,20 @@ I am an aspiring data analyst with skills in SQL, Python, Excel, Tableau, and Po
 ## Projects
 
 ### Store Sales Dashboard
-**Tools:** Tableau Public
-Built an interactive dashboard to explore store sales data and uncover useful business insights.
+**Tools:** Tableau Public  
+Built an interactive dashboard to explore store sales data and uncover useful business insights.  
 [View Tableau Dashboard](https://public.tableau.com/views/storesample/Dashboard1)
 
+---
+
 ### Mini Calculator
-**Tools:** HTML, CSS, JavaScript
-Built a simple calculator app that can add, subtract, multiply, and divide.
+**Tools:** HTML, CSS, JavaScript  
+Built a simple calculator app that can add, subtract, multiply, and divide.  
 [Open Project](https://eortiz26.github.io/calculator/)
+
+---
+
+### Python To-Do List App
+**Tools:** Python  
+A beginner-friendly Python project that allows users to manage and save daily tasks.  
+[View Python Code](./main.py)
