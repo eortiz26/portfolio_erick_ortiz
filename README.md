@@ -1,37 +1,51 @@
-## Mini To-Do List App
+Erick Ortiz Portfolio
+Welcome to my personal portfolio website repository.
 
-This is a beginner Python project.
+Resume
+View My Resume
 
-## What it does
-- Shows tasks
-- Adds tasks
-- Removes tasks
-- Saves tasks in a file
+Live Portfolio
+Visit My Portfolio Website
 
-## How to run it
+Data Analyst | SQL | Python | Excel | Tableau | Power BI
+I build dashboards, clean data, and turn raw data into actionable insights.
 
-1. Open the project folder
-2. Run this command:
+About
+I am an aspiring data analyst with skills in SQL, Python, Excel, Tableau, and Power BI. I enjoy building dashboards, cleaning data, and finding insights that support better decisions.
 
-python main.py
+Projects
+Electric Vehicle Dashboard
+Tools: Tableau Public
 
-## Files
-- main.py = the code
-- tasks.txt = saved tasks
-- README.md = project instructions
+Built an interactive dashboard to analyze electric vehicle data and uncover useful trends and insights.
 
-This is a beginner Python project.
+View Tableau Dashboard
 
-## What it does
-- Shows tasks
-- Adds tasks
-- Removes tasks
-- Saves tasks in a file
+Store Sales Dashboard
+Tools: Tableau Public
 
-## How to run it
+Built an interactive dashboard to explore store sales data and uncover useful business insights.
 
-1. Open the project folder
-2. Run this command:
+View Tableau Dashboard
 
-```bash
-python main.py
+Mini Calculator
+Tools: HTML, CSS, JavaScript
+
+Built a simple calculator app that can add, subtract, multiply, and divide.
+
+Open Project
+
+Skills
+SQL
+Python
+Excel
+Tableau
+Power BI
+Data Cleaning
+Data Visualization
+
+Contact
+
+GitHub: https://github.com/eortiz26
+LinkedIn: https://www.linkedin.com/in/erick-ortiz-472165195
+Email: ejortiz29@gmail.com
