@@ -20,7 +20,7 @@ Built an interactive dashboard to analyze electric vehicle data and uncover usef
 ### Store Sales Dashboard
 **Tools:** Tableau Public  
 Built an interactive dashboard to explore store sales data and uncover useful business insights.  
-[View Tableau Dashboard]https://public.tableau.com/app/profile/erick.ortiz/viz/storesamlpe/Dashboard1
+[View Tableau Dashboard](https://public.tableau.com/app/profile/erick.ortiz/viz/storesamlpe/Dashboard1)
 
 ### Mini Calculator
 **Tools:** HTML, CSS, JavaScript  
