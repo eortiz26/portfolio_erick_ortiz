@@ -1,0 +1,10 @@
+{
+  "ABC123": {
+    "owner_name": "Demo Driver",
+    "mailing_address": "123 Maple Street, Demo Town, CA 90001"
+  },
+  "XYZ789": {
+    "owner_name": "Sample Person",
+    "mailing_address": "456 Oak Avenue, Example City, CA 90002"
+  }
+}
